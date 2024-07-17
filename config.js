@@ -1,26 +1,26 @@
 exports.TOKEN = "YOUR BOT TOKEN";
 
-exports.PREFIX = 'YOUR PREFIX';
+exports.PREFIX = '!';
 
-exports.GOOGLE_API_KEY = 'YOUR GOOGLE API KEY';
+exports.GOOGLE_API_KEY = 'AIzaSyAVPiYn9toBz5gvOARKT3X8VRx3-slIfU0';
 
-exports.GENIUS_API_KEY = 'YOUR GENIUS API KEY HERE FOR LYRICS';
+exports.GENIUS_API_KEY = 'nnUk74mHT9qKVyH1B4VKsl9cCnuoKHndWQeTB_kz40G3j7dQWgVlCiOsQX1MS2TN';
 
 exports.MAX_PLAYLIST_SIZE = 200;
 
 exports.LAVA_ID = "default"
 
-exports.LAVA_HOST = "IP ADDRESS HERE" //your lavalink node/server ip address or the site
+exports.LAVA_HOST = "37.114.42.191" //your lavalink node/server ip address or the site
 
-exports.LAVA_PORT = "PORT HERE" //port
+exports.LAVA_PORT = "6767" //port
 
-exports.LAVA_PASSWORD = "PASS HERE" //pass. if pass not available, use default "youshallnotpass"
+exports.LAVA_PASSWORD = "danteisnttaken" //pass. if pass not available, use default "youshallnotpass"
 
-exports.OWNER_ID = "YOUR ACCOUNT ID HERE" //your account id
+exports.OWNER_ID = "996784377633706105" //your account id
 
-exports.spCID = "YOUR SPOTIFY CLIENT ID"
+exports.spCID = "e74e6dabe16a4ffba4de235ac205c761"
 
-exports.spCS = "your spotify client SECRET"
+exports.spCS = "fdd7ca14e32442f18ff449548910fe51"
 
 exports.KSOFT_TOKEN = "YOUR KSOFT TOKEN HERE" 
 
