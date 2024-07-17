@@ -1,4 +1,4 @@
-exports.TOKEN = "YOUR BOT TOKEN";
+exports.TOKEN = "MTI2Mjk5NjIzMDYwNzM0MzYyNg.GtuMB5.b3lKjTHU1ID_i697gjqV18Ht9iaQ1bNf3jyW2I";
 
 exports.PREFIX = '!';
 
